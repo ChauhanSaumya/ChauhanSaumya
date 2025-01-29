@@ -2,9 +2,9 @@
 <h3 align="center">A student currently enrolled in B.tech(computer science)</h3>
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/young-woman-writes-code-on-600nw-1731157933.jpg">
 
-- 🔭 I’m currently working on [ClubHub](https://github.com/ChauhanSaumya/ClubHub)
+- 🔭 I’m currently working on my web-development project [ClubHub](https://github.com/ChauhanSaumya/ClubHub)
 
-- 🌱 I’m currently learning **javascript and regularly pratice DSA problems to ace excellence in the subject.**
+- 🌱 I’m currently learning **javascript and regularly praticing DSA problems to ace excellence in the subject.**
 
 - 👯 I’m looking to collaborate on **web development(front-end) projects**
 
